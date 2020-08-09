@@ -28,7 +28,12 @@ This is an simple NN train activity task.
  above phrase is something that happen only when module itself is called as top .
 
 ## 3. Algorithm Tech
+### Reference
 
+ * https://www.edureka.co/blog/backpropagation
+ * https://towardsdatascience.com/multi-layer-neural-networks-with-sigmoid-function-deep-learning-for-rookies-2-bf464f09eb7f
+ * Paul D. Reynolds, Algorithm Implementation in FPGAs Demonstrated Through Neural Network Inversion on the SRC-6e, Baylor University Master Thesis.
+ * https://dev.to/shamdasani/build-a-flexible-neural-network-with-backpropagation-in-python 
 
 
 ## 4. Revision History
